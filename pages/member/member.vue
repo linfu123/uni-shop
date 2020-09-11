@@ -1,25 +1,24 @@
 <template>
 	<view>
-		首页
+		会员
 	</view>
 </template>
 
 <script>
-	export default {
+	export default{
 		data() {
-			return {
+			return{
 				
 			}
 		},
 		onLoad() {
-
+			
 		},
-		methods: {
-
+		methods:{
+			
 		}
 	}
 </script>
 
 <style>
-	
 </style>

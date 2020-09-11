@@ -1,25 +1,24 @@
 <template>
 	<view>
-		首页
+		评论
 	</view>
 </template>
 
 <script>
-	export default {
-		data() {
+	export default{
+		data(){
 			return {
 				
 			}
 		},
 		onLoad() {
-
+			
 		},
-		methods: {
-
+		methods:{
+			
 		}
-	}
+	} 
 </script>
 
 <style>
-	
 </style>

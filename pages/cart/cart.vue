@@ -1,25 +1,24 @@
 <template>
 	<view>
-		首页
+		购物车
 	</view>
 </template>
 
 <script>
-	export default {
-		data() {
-			return {
+	export default{
+		data(){
+			return{
 				
 			}
 		},
 		onLoad() {
-
+			
 		},
-		methods: {
-
+		methods:{
+			
 		}
 	}
 </script>
 
 <style>
-	
 </style>
