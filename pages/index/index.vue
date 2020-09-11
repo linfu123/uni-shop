@@ -12,10 +12,15 @@
 			}
 		},
 		onLoad() {
-
+			this.getSwipers();
 		},
 		methods: {
-
+			async getSwipers () {
+				const res = await this.$requestUtil({
+					url: '/images/getall'
+				})
+				console.log(res.data)
+			},
 		}
 	}
 </script>
